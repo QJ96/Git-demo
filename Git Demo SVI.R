@@ -46,7 +46,7 @@ CMS_2020 <- rename (CMS_2020, zipcode = Prscrbr_zip5)
 
 zipcode <- search_state('PA')
 
-SVI_2020<- read.csv("C:/Users/c-qjahan/Downloads/Antimicrobial Stewardship CMS analysis/REPORTS/stewardship/SVI analysis/svi_interactive_map 2020.csv") 
+#SVI_2020<- read.csv("C:/Users/c-qjahan/Downloads/Antimicrobial Stewardship CMS analysis/REPORTS/stewardship/SVI analysis/svi_interactive_map 2020.csv") 
 
 
 # Data cleaning & validation 
